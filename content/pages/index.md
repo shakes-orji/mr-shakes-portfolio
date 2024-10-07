@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hello, I''m Shekinah Emeka-Orji'
-    subtitle: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    subtitle: 'A Frontend Developer, IT Consultant, Python Programmer.'
     styles:
       self:
         height: auto
