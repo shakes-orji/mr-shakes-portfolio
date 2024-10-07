@@ -46,6 +46,12 @@ sections:
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
       can continue to scroll down to see more details and credentials about me.
+    media:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
