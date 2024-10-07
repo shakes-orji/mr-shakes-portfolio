@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hello, I am'
+    title: 'Hello, I''m Shekinah Emeka-Orji'
     subtitle: >-
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
