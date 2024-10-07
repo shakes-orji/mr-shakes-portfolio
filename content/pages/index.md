@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: 'Hello, I''m Shekinah Emeka-Orji'
     subtitle: 'A Frontend Developer, IT Consultant, Python Programmer.'
     styles:
