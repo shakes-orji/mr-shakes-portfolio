@@ -75,7 +75,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "mailto:sh2emorji@gmail.com",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
