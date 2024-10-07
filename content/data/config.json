@@ -91,7 +91,8 @@
                 "url": "https://github.com/shakes-orji",
                 "altText": "GitHub",
                 "showIcon": true,
-                "icon": "github"
+                "icon": "github",
+                "iconPosition": "right"
             }
         ],
         "contacts": {
