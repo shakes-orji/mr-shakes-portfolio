@@ -34,18 +34,18 @@
             },
             {
                 "type": "Social",
+                "altText": "GitHub",
+                "label": "GitHub",
+                "url": "https://github.com/shakes-orji",
+                "icon": "github"
+            },
+            {
+                "type": "Social",
                 "label": "Facebook",
                 "altText": "",
                 "url": "https://www.facebook.com/shakes.orji",
                 "icon": "facebook",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/shakes-orji",
-                "icon": "github"
             }
         ],
         "styles": {
