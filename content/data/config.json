@@ -76,7 +76,7 @@
                 "label": "Contact",
                 "url": "mailto:sh2emorji@gmail.com",
                 "altText": "",
-                "showIcon": true,
+                "showIcon": false,
                 "icon": "mail"
             },
             {
