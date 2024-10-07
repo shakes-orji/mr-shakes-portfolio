@@ -108,7 +108,7 @@
         "copyrightText": "```\n© mr shakes | 2024\n```\n\n",
         "styles": {
             "self": {
-                "width": "wide",
+                "width": "full",
                 "padding": [
                     "pt-16",
                     "pb-16",
