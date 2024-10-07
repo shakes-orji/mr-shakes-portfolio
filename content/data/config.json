@@ -92,7 +92,7 @@
                 "altText": "GitHub",
                 "showIcon": true,
                 "icon": "github",
-                "iconPosition": "right"
+                "iconPosition": "left"
             }
         ],
         "contacts": {
