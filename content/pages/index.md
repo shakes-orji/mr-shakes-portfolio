@@ -193,5 +193,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: "\U0001F971\n"
+    text: ''
 ---
