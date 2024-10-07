@@ -99,7 +99,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "0905-657-4588",
-            "phoneAltText": "(+234) 905-657-4588",
+            "phoneAltText": "My Number",
             "email": "sh2emorji@gmail.com",
             "emailAltText": "My email",
             "address": "Wuse, Abuja, Nigeria.",
