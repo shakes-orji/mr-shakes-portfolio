@@ -45,6 +45,9 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      I’m a developer, digital artist, consultant and a bunch of other
+      impressive titles and buzz words.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -191,6 +194,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    text: |+
-
+    text: ''
 ---
