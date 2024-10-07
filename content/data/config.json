@@ -46,6 +46,14 @@
                 "url": "https://www.facebook.com/shakes.orji",
                 "icon": "facebook",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.instagram.com/mrshakes0/",
+                "icon": "instagram",
+                "elementId": ""
             }
         ],
         "styles": {
