@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Hello, I''m Shekinah Emeka-Orji'
-    subtitle: 'A Frontend Developer, IT Consultant, Python Programmer.'
+    subtitle: 'A Frontend Developer, Python Programmer, IT Consultant.'
     styles:
       self:
         height: auto
