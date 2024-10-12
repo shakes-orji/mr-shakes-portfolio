@@ -240,8 +240,6 @@ sections:
     colors: colors-f
     text: |
       <sh2emorji@gmail.com>
-
-      [09056574588](/tel:09056574588)
   - type: DividerSection
     styles:
       self:
