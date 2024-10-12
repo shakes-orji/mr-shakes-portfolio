@@ -58,7 +58,7 @@
         ],
         "styles": {
             "self": {
-                "width": "narrow"
+                "width": "full"
             }
         }
     },
