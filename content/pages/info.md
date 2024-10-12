@@ -239,9 +239,9 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [sh2emorji@gmail.com
+      <sh2emorji@gmail.com>
 
-      ](mailto:sh2emorji@gmail.com)[tel:09056574588](/tel:09056574588)
+      [tel:09056574588](/tel:09056574588)
   - type: DividerSection
     styles:
       self:
