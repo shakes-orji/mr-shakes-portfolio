@@ -10,7 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: <button>Download CV</button>
+  - elementId: ''
     colors: colors-f
     backgroundSize: full
     title: 'Hello, I''m Shekinah Emeka-Orji'
