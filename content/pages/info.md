@@ -241,7 +241,7 @@ sections:
     text: |
       <sh2emorji@gmail.com>
 
-      <tel:09056574588>
+      <09056574588>
   - type: DividerSection
     styles:
       self:
